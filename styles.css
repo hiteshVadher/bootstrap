@@ -37,3 +37,8 @@ body {
 .navbar-dark {
     background-color: #512DAB;
 }
+
+.footer-icon {
+    background-color: #cf91e3;
+    color: black;
+}
