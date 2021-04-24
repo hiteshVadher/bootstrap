@@ -41,7 +41,7 @@ body {
 }
 
 .navbar-dark {
-    background-color: #512DAB;
+    background-color: #512DA8;
 }
 
 .footer-icon {
@@ -59,3 +59,20 @@ body {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.carousel {
+    background: #512DA8;
+}
+
+.carousel-item {
+    min-height: 300px;
+    color: black;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+  
