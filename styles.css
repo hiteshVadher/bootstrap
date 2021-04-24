@@ -1,3 +1,9 @@
+@import url(node_modules/bootstrap-icons/font/bootstrap-icons.css);
+
+* {
+    scroll-behavior: smooth;
+}
+
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
@@ -11,7 +17,7 @@
 }
 
 .footer {
-    background-color: #cf91e3;
+    background-color: #c79fed;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +25,7 @@
 .jumbotron {
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: #cf91e3;
+    background: #c79fed;
     color: floralwhite;
 }
 
@@ -39,6 +45,10 @@ body {
 }
 
 .footer-icon {
-    background-color: #cf91e3;
+    background-color: #c79fed;
     color: black;
+}
+
+.header-icon {
+    font-size: 20px;
 }
